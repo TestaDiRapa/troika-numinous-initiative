@@ -1,0 +1,17 @@
+{
+    "id": "troika-numinous-initiative",
+    "title": "Troika! Numinous Initiative",
+    "description": "A custom initiative tracker for the Troika! system.",
+    "authors": [
+      {
+        "name": "TestaDiRapa",
+        "url": "https://github.com/TestaDiRapa"
+      }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
+    "esmodules": ["scripts/module.js"]
+  }
